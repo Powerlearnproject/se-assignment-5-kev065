@@ -134,6 +134,15 @@ Answer the following questions based on your understanding of the installation a
       - Your changes are now on GitHub.
 
 
+## References
+1. [How to Install Visual Studio Code in Windows 11: A Step-by-Step Guide](https://www.supportyourtech.com/articles/how-to-install-visual-studio-code-in-windows-11-a-step-by-step-guide/)
+2. [VS Code - User Interface](https://riptutorial.com/visual-studio-code/learn/100006/user-interface)
+3. [VS Code - Get the basics right!](https://microsoft.github.io/vscode-essentials/en/02-basics.html)
+4. [Top 15 Best Visual Studio Code Extensions For Web Development](https://codeforgeek.com/best-visual-studio-code-extensions-web-development/)
+5. [Personalize Visual Studio Code](https://code.visualstudio.com/docs/introvideos/configure)
+6. [VS Code - Debugging](https://vscode-docs.readthedocs.io/en/latest/editor/debugging/)
+7. [How to Use Version Control in Visual Studio Code](https://codingcampus.net/how-to-use-version-control-in-visual-studio-code/)
+8. [Organizing Folders in Visual Studio Code: A Better Way for Grouping Files](https://devcodef1.com/news/1110545/organizing-folders-in-vs-code)
 
 
 
