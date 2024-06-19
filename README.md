@@ -46,14 +46,36 @@ Answer the following questions based on your understanding of the installation a
       - Search for extensions by name or functionality in VS code Marketplace.
       
    - Installing Extensions
-      - When you find the extension you're looking for click the “Install” button.
+      - When you find the extension you're looking for click the `Install` button.
 
    - Managing Extensions
       - Click the gear icon next to an installed extension to configure settings or disable it. 
       - Keep your extensions up to date for the best experience. 
 
-6. Integrated Terminal:
-   - Describe how to open and use the integrated terminal in VS Code. What are the advantages of using the integrated terminal compared to an external terminal?
+6. Integrated Terminal: Describe how to open and use the integrated terminal in VS Code. What are the advantages of using the integrated terminal compared to an external terminal?
+   - You can open the integrated terminal in VS Code using the following methods:
+      - Type Ctrl+backtick
+      - Click View > Terminal from the menu.
+
+   - Advantages of the Integrated Terminal
+      - Seamless Integration: The integrated terminal is part of VS Code, so you don’t need to switch between different apps.
+      - Context Awareness: It automatically opens in the workspace directory of your current file, making it contextually relevant.
+      - Customization: You can choose your preferred shell (e.g., PowerShell, Command Prompt, Git Bash) and configure it within VS Code.
+      - Split View: You can split the terminal horizontally or vertically alongside the regular code editor.
+      - Direct Interaction: Execute commands, run scripts, and manage Git directly from the terminal.
+      - Output Capture: Terminal output (e.g., build logs, test results) is captured within VS Code, making it easier to review.
+
+
+
+
+
+
+
+
+
+
+
+
 
 7. File and Folder Management:
    - Explain how to create, open, and manage files and folders in VS Code. How can users navigate between different files and directories efficiently?
