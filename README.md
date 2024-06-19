@@ -65,20 +65,18 @@ Answer the following questions based on your understanding of the installation a
       - Direct Interaction: Execute commands, run scripts, and manage Git directly from the terminal.
       - Output Capture: Terminal output (e.g., build logs, test results) is captured within VS Code, making it easier to review.
 
+7. File and Folder Management: Explain how to create, open, and manage files and folders in VS Code. How can users navigate between different files and directories efficiently?
+   - Opening a Folder:
+      - To open a folder, use `File > Open Folder` from the menu.
+      - Alternatively, from the terminal, to launch the current folder in VS code, type `code .` 
+
+   - Explorer View:
+      - Once a folder is opened, its contents appear in the Explorer view. Here, you can:
+         - Create, delete, and rename files and folders.
+         - Move files and folders using drag and drop.
 
 
 
-
-
-
-
-
-
-
-
-
-7. File and Folder Management:
-   - Explain how to create, open, and manage files and folders in VS Code. How can users navigate between different files and directories efficiently?
 
 8. Settings and Preferences:
    - Where can users find and customize settings in VS Code? Provide examples of how to change the theme, font size, and keybindings.
