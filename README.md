@@ -76,10 +76,16 @@ Answer the following questions based on your understanding of the installation a
          - Move files and folders using drag and drop.
 
 
+8. Settings and Preferences: Where can users find and customize settings in VS Code? Provide examples of how to change the theme, font size, and keybindings.
+   -  You can customize VS code through the Settings editor. Here’s how:
+      - Open the Settings Editor:
+         - Navigate to `File > Preferences > Settings`.
 
+      - Alternatively, use the Command Palette by clicking `Ctrl+Shift+P` and search for Preferences: Open Settings.
 
-8. Settings and Preferences:
-   - Where can users find and customize settings in VS Code? Provide examples of how to change the theme, font size, and keybindings.
+   - To change the theme, search for `Color Theme` in settings and select your preferred theme.
+   - Adjust font size by searching for `Font Size` and modifying the value.
+   - Customize keybindings by searching for `Keybindings` and editing the JSON file.
 
 9. Debugging in VS Code:
    - Outline the steps to set up and start debugging a simple program in VS Code. What are some key debugging features available in VS Code?
