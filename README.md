@@ -40,8 +40,17 @@ Answer the following questions based on your understanding of the installation a
       - Installing extensions. 
       - Git-related actions (e.g., committing changes, switching branches).
 
-5. Extensions in VS Code:
-   - Discuss the role of extensions in VS Code. How can users find, install, and manage extensions? Provide examples of essential extensions for web development.
+5. Extensions in VS Code: Discuss the role of extensions in VS Code. How can users find, install, and manage extensions? Provide examples of essential extensions for web development.
+   - Finding Extensions 
+      - Open VS Code and click the Extensions icon in the Activity Bar. Alternatively, you can use the shortcut Ctrl+Shift+X.
+      - Search for extensions by name or functionality in VS code Marketplace.
+      
+   - Installing Extensions
+      - When you find the extension you're looking for click the “Install” button.
+
+   - Managing Extensions
+      - Click the gear icon next to an installed extension to configure settings or disable it. 
+      - Keep your extensions up to date for the best experience. 
 
 6. Integrated Terminal:
    - Describe how to open and use the integrated terminal in VS Code. What are the advantages of using the integrated terminal compared to an external terminal?
