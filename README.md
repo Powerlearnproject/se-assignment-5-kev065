@@ -7,14 +7,28 @@ Answer the following questions based on your understanding of the installation a
 
  Questions:
 
-1. Installation of VS Code:
-   - Describe the steps to download and install Visual Studio Code on Windows 11 operating system. Include any prerequisites that might be needed.
+1. Installation of VS Code: Describe the steps to download and install Visual Studio Code on Windows 11 operating system. Include any prerequisites that might be needed
 
-2. First-time Setup:
-   - After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
+   - Visit the official vs code [website](https://code.visualstudio.com/download).
+   - Click the download button and select the version compatible with Windows 11.
+   - The download should start automatically.
+   - Locate the downloaded installer file i.e. VSCodeSetup.exe in the Downloads folder.
+   - Double-click on it to start the installation process.
+   - Accept the License Agreement by checking the box to accept the terms and conditions.
+   - Click "Next" to proceed.
+   - Select the folder where you want Visual Studio Code to be installed. Accept the default directory as suggested.
+   - Choose the option to create a desktop icon.
+   - Click "Install" to begin the installation process.
+   - Check the box to launch VS Code immediately after installation, or you can launch it manually after installation from the windows start menu or from the desktop icon.
 
-3. User Interface Overview:
-   - Explain the main components of the VS Code user interface. Identify and describe the purpose of the Activity Bar, Side Bar, Editor Group, and Status Bar.
+2. First-time Setup: After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
+   - Install the following extensions: Python, Dart, Flutter, Thunder Client and Github Theme.
+   - Settings: Access settings by clicking the gear icon (⚙️) in the bottom left corner and selecting “Settings.” You can change the following: font size, line height, default language mode, tab size, and auto-save preference.
+
+3. User Interface Overview: Explain the main components of the VS Code user interface. Identify and describe the purpose of the Activity Bar, Side Bar, Editor Group, and Status Bar.
+   - Activity Bar: It's located on the left and it lets us switch between different views (e.g, Explorer, Source Control, Extensions and the Remote Explorer).
+   - Editor Group: This is the area where you edit your files. You can open multiple editors side by side vertically or horizontally. Also enables us to customize font size, line height, and other visual preferences here.
+   - Status Bar: Located at the bottom, it provides information about the opened project, the file you’re editing, and active extensions. 
 
 4. Command Palette:
    - What is the Command Palette in VS Code, and how can it be accessed? Provide examples of common tasks that can be performed using the Command Palette.
