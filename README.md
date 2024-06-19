@@ -30,8 +30,15 @@ Answer the following questions based on your understanding of the installation a
    - Editor Group: This is the area where you edit your files. You can open multiple editors side by side vertically or horizontally. Also enables us to customize font size, line height, and other visual preferences here.
    - Status Bar: Located at the bottom, it provides information about the opened project, the file you’re editing, and active extensions. 
 
-4. Command Palette:
-   - What is the Command Palette in VS Code, and how can it be accessed? Provide examples of common tasks that can be performed using the Command Palette.
+4. Command Palette: What is the Command Palette in VS Code, and how can it be accessed? Provide examples of common tasks that can be performed using the Command Palette.
+   - The Command Palette in VS Code is a tool that allows us to access various features, commands, and settings directly through keyboard shortcuts. 
+   - To access it, press Ctrl+Shift+P. 
+   - Then start typing to search for a specific command by name.
+   - Common tasks you can perform using the Command Palette include: 
+      - Running commands (e.g., opening files, formatting code).
+      - Changing settings (e.g., adjusting font size, theme).
+      - Installing extensions. 
+      - Git-related actions (e.g., committing changes, switching branches).
 
 5. Extensions in VS Code:
    - Discuss the role of extensions in VS Code. How can users find, install, and manage extensions? Provide examples of essential extensions for web development.
