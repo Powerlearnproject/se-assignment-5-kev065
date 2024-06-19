@@ -77,6 +77,7 @@ Answer the following questions based on your understanding of the installation a
 
 
 8. Settings and Preferences: Where can users find and customize settings in VS Code? Provide examples of how to change the theme, font size, and keybindings.
+
    -  You can customize VS code through the Settings editor. Here’s how:
       - Open the Settings Editor:
          - Navigate to `File > Preferences > Settings`.
@@ -87,8 +88,33 @@ Answer the following questions based on your understanding of the installation a
    - Adjust font size by searching for `Font Size` and modifying the value.
    - Customize keybindings by searching for `Keybindings` and editing the JSON file.
 
-9. Debugging in VS Code:
-   - Outline the steps to set up and start debugging a simple program in VS Code. What are some key debugging features available in VS Code?
+9. Debugging in VS Code: Outline the steps to set up and start debugging a simple program in VS Code. What are some key debugging features available in VS Code?
+
+   - Setting Up Debugging
+      - Open the Run and Debug view: Click the Run and Debug icon in the left sidebar or use the shortcut `Ctrl+Shift+D`.
+      - Create a launch.json file.
+         - In the Run and Debug view, click "Create a launch.json file."
+         - VS Code will automatically detect your program's type (e.g., Python, Dart etc) and create a basic configuration. This file can be customized later for more complex scenarios.
+
+   - Starting Debugging
+      - Set a breakpoint: Click in the left margin next to the line of code where you want execution to pause. A red dot appears, indicating the breakpoint.
+
+      - Run the program in debug mode:
+         - Click the green `Run and Debug` button (play icon) in the Run and Debug view.
+         - Alternatively, use the shortcut F5.
+
+   - Key Debugging Features in VS Code
+      - Breakpoints: Control program execution by pausing at specific lines.
+      - Stepping: Navigate code line by line:
+      - Step Over (F10): Execute the current line and skip over function calls.
+      - Step Into (F11): Enter a function call and debug its internal code.
+      - Step Out (Shift+F11): Exit the current function and continue execution.
+      - Call Stack: View the hierarchy of function calls, allowing you to see how the program reached the current point.
+      - Variables: Inspect the values of variables at any point during execution.
+      - Expressions: Evaluate custom expressions within the debugger to check calculations or data structures.
+      - Console: Interact with your program's standard output stream for logging or debugging messages.
+      - Watches: Monitor the values of specific variables in real time as the program runs.
+      - Source Control Integration: Step through code changes and see how they affect program behavior.
 
 10. Using Source Control:
     - How can users integrate Git with VS Code for version control? Describe the process of initializing a repository, making commits, and pushing changes to GitHub.
