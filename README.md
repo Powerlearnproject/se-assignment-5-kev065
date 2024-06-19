@@ -32,7 +32,7 @@ Answer the following questions based on your understanding of the installation a
 
 4. Command Palette: What is the Command Palette in VS Code, and how can it be accessed? Provide examples of common tasks that can be performed using the Command Palette.
    - The Command Palette in VS Code is a tool that allows us to access various features, commands, and settings directly through keyboard shortcuts. 
-   - To access it, press Ctrl+Shift+P. 
+   - To access it, press `Ctrl+Shift+P`. 
    - Then start typing to search for a specific command by name.
    - Common tasks you can perform using the Command Palette include: 
       - Running commands (e.g., opening files, formatting code).
@@ -42,7 +42,7 @@ Answer the following questions based on your understanding of the installation a
 
 5. Extensions in VS Code: Discuss the role of extensions in VS Code. How can users find, install, and manage extensions? Provide examples of essential extensions for web development.
    - Finding Extensions 
-      - Open VS Code and click the Extensions icon in the Activity Bar. Alternatively, you can use the shortcut Ctrl+Shift+X.
+      - Open VS Code and click the Extensions icon in the Activity Bar. Alternatively, you can use the shortcut `Ctrl+Shift+X`.
       - Search for extensions by name or functionality in VS code Marketplace.
       
    - Installing Extensions
@@ -54,8 +54,8 @@ Answer the following questions based on your understanding of the installation a
 
 6. Integrated Terminal: Describe how to open and use the integrated terminal in VS Code. What are the advantages of using the integrated terminal compared to an external terminal?
    - You can open the integrated terminal in VS Code using the following methods:
-      - Type Ctrl+backtick
-      - Click View > Terminal from the menu.
+      - Type `Ctrl+backtick`
+      - Click `View > Terminal` from the menu.
 
    - Advantages of the Integrated Terminal
       - Seamless Integration: The integrated terminal is part of VS Code, so you don’t need to switch between different apps.
@@ -106,9 +106,9 @@ Answer the following questions based on your understanding of the installation a
    - Key Debugging Features in VS Code
       - Breakpoints: Control program execution by pausing at specific lines.
       - Stepping: Navigate code line by line:
-      - Step Over (F10): Execute the current line and skip over function calls.
-      - Step Into (F11): Enter a function call and debug its internal code.
-      - Step Out (Shift+F11): Exit the current function and continue execution.
+         - Step Over (F10): Execute the current line and skip over function calls.
+         - Step Into (F11): Enter a function call and debug its internal code.
+         - Step Out (Shift+F11): Exit the current function and continue execution.
       - Call Stack: View the hierarchy of function calls, allowing you to see how the program reached the current point.
       - Variables: Inspect the values of variables at any point during execution.
       - Expressions: Evaluate custom expressions within the debugger to check calculations or data structures.
@@ -116,8 +116,27 @@ Answer the following questions based on your understanding of the installation a
       - Watches: Monitor the values of specific variables in real time as the program runs.
       - Source Control Integration: Step through code changes and see how they affect program behavior.
 
-10. Using Source Control:
-    - How can users integrate Git with VS Code for version control? Describe the process of initializing a repository, making commits, and pushing changes to GitHub.
+10. Using Source Control: How can users integrate Git with VS Code for version control? Describe the process of initializing a repository, making commits, and pushing changes to GitHub.
+   - Initialize a Repository:
+      - Open your project folder in VS Code.
+      - Click the Source Control icon in the Activity Bar on the left.
+      - Initialize a new Git repository by clicking “Initialize Repository.”
+
+   - Make Commits:
+      - Create or modify files in your project and save your changes.
+      - Click the `+` icon next to a file to stage changes.
+      - Add a commit message and press `Ctrl+Enter` to commit.
+      - Staged changes are now committed.
+
+   - Push to GitHub:
+      - Click the three dots (…) in the Source Control view and choose “Push.”
+      - Select the branch to push to.
+      - Your changes are now on GitHub.
+
+
+
+
+
 
  Submission Guidelines:
 - Your answers should be well-structured, concise, and to the point.
